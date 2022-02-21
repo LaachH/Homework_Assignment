@@ -13,7 +13,7 @@ This level of profitability and performance has been achieved by having the best
 
 But a startup in Australia is offering backtested trading models to retail investors, unlikely to have the same success as the Medallion Fund, but providing an entry offering, previously only seen in exclusive wealthy circles. 
 
-![markdown-image](unhedged_logo.jpeg)
+![markdown](unhedged_logo.png)
 
 
 # Unhedged (ACN 	646 541 362)
